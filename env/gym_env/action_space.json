@@ -1,0 +1,15 @@
+A = {
+    "ls", 
+    "cd ..", 
+    "cd <dir>", 
+    "cat <file>", 
+    "mkdir <dir>", 
+    "touch <file>", 
+    "rm <file>", 
+    "echo <text> > <file>", 
+    "pwd", 
+    "find <pattern>", 
+    "grep <pattern> <file>", 
+    "cp <src> <dst>", 
+    "mv <src> <dst>"
+}
